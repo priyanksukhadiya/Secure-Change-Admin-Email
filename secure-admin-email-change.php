@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Secure Change Admin Email
+Plugin Name: Secure Admin Email Change
 Plugin URI: https://wordpress.org/plugins/secure-admin-email-change/
 Description: Enables admins to update the site’s admin email without email confirmation, making it easier for sites without email-sending capabilities.
 Version: 1.0
